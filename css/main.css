@@ -1,0 +1,14 @@
+html {
+	box-sizing: border-box;
+}
+
+h1 {
+  background-color: #d05c2e;
+  text-align: center;
+}
+
+
+
+*, *::before, *::after {
+	box-sizing: inherit;
+}
